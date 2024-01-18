@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabricio+Colombo;I'm+27+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erick+Rodrigues;I'm+23+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">
   As a pioneer in technological innovation within our team, I lead with remarkable achievements. I developed a family of intelligent robots that not only saved a crucial partnership but also boosted our conversion rate by an incredible 800%, propelling our team to the top of the national scene.<br><br>
 
