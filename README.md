@@ -2,8 +2,6 @@
 <img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-
-![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 <p align="center">
   As a pioneer in technological innovation within our team, I lead with remarkable achievements. I developed a family of intelligent robots that not only saved a crucial partnership but also boosted our conversion rate by an incredible 800%, propelling our team to the top of the national scene.<br><br>
 
@@ -16,7 +14,7 @@
   As the steward of digital strategy, systems administration, and database management, I am committed to keeping our company at the forefront of innovation, pushing the boundaries of what is possible.
 </p>
 
-
+![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
