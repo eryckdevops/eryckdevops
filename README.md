@@ -53,6 +53,7 @@
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![BI](https://img.shields.io/badge/bi-14354C?style=for-the-badge&logo=Bi&logoColor=white)&nbsp)&nbsp;
 
 #### Studying in this moment:
 
