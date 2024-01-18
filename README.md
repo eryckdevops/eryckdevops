@@ -1,8 +1,17 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
+<img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
+<p align="center">
+  As a pioneer in technological innovation within our team, I lead with remarkable achievements. I developed a family of intelligent robots that not only saved a crucial partnership but also boosted our conversion rate by an incredible 800%, propelling our team to the top of the national scene.<br><br>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+  Furthermore, I created a revolutionary robot, yielding an extraordinary 270% improvement in digital billing processes, earning our company the title of the country's top advisory, recognized with prominent awards.<br><br>
+
+  Showcasing proficiency in leading comprehensive projects, I automated an entire floor, orchestrating more than 50 computers into an efficient symphony, increasing productivity by 250% and cutting costs by 100%.<br><br>
+
+  My expertise extends to the development of complex software solutions, including implementing Machine Learning practices to enhance processes and data analysis. I led the implementation of real-time Dashboard systems and HR and ERP solutions, redefining internal processes.<br><br>
+
+  As the steward of digital strategy, systems administration, and database management, I am committed to keeping our company at the forefront of innovation, pushing the boundaries of what is possible.
+</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
