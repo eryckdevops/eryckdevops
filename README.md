@@ -13,9 +13,12 @@
   As the steward of digital strategy, systems administration, and database management, I am committed to keeping our company at the forefront of innovation, pushing the boundaries of what is possible.
 </p>
 
+
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-eryckdevops.vercel.app/api/top-langs/?username=eryckdevops&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
  </div>
  
  &nbsp;
