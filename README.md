@@ -1,9 +1,9 @@
 
 <img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabricio+Colombo;I'm+27+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabricio-colombo&bg_color=0b5394&color=eeeeee&line=38761d&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabricio+Colombo;I'm+27+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">
   As a pioneer in technological innovation within our team, I lead with remarkable achievements. I developed a family of intelligent robots that not only saved a crucial partnership but also boosted our conversion rate by an incredible 800%, propelling our team to the top of the national scene.<br><br>
 
