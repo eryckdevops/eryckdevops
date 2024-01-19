@@ -1,4 +1,4 @@
-
+![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
 <img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
@@ -8,11 +8,8 @@
   As a pioneer in technological innovation within our team, I lead with remarkable achievements. I developed a family of intelligent robots that not only saved a crucial partnership but also boosted our conversion rate by an incredible 800%, propelling our team to the top of the national scene.<br><br>
 
   Furthermore, I created a revolutionary robot, yielding an extraordinary 270% improvement in digital billing processes, earning our company the title of the country's top advisory, recognized with prominent awards.<br><br>
-
   Showcasing proficiency in leading comprehensive projects, I automated an entire floor, orchestrating more than 50 computers into an efficient symphony, increasing productivity by 250% and cutting costs by 100%.<br><br>
-
   My expertise extends to the development of complex software solutions, including implementing Machine Learning practices to enhance processes and data analysis. I led the implementation of real-time Dashboard systems and HR and ERP solutions, redefining internal processes.<br><br>
-
   As the steward of digital strategy, systems administration, and database management, I am committed to keeping our company at the forefront of innovation, pushing the boundaries of what is possible.
 </p>
 
