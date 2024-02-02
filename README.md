@@ -20,7 +20,7 @@
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 <div align="center">
   <div align="center" style="margin-bottom:100px">
-    <img width="158%" src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
+    <img width="78%" src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
     <img width="58%" height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryckdevops&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
   </div>
 
