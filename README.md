@@ -92,7 +92,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ### :curly_haired_man: &nbsp;Dev Pleno Café
 
-<img align="right" src="https://eryckdevops-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Erick Rodrigues no momento" />
+<img align="right" src="(https:/novatorem-m1qyft6li-rodrigues-projects-b7116b34.vercel.app/api/spotify)](https://open.spotify.com/user/31puvdefccxyl3uym2rvjrfzztyq)" alt="Música que está tocando no Spotify do Erick Rodrigues no momento" />
 
 ## Contacts:
 
