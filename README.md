@@ -1,8 +1,6 @@
 ![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
-
 <img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
-      <img src="https://img1.picmix.com/output/stamp/normal/0/3/0/8/588030_87d9a.gif" min-width="200px" max-width="200px" width="135" alt="Erick" align="right">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erick+Rodrigues;I'm+23+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
