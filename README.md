@@ -14,6 +14,10 @@
 </p>
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
+<div style="display: flex; align-items: center;">
+      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
+
+</div>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-master-rodrigues-projects-b7116b34.vercel.app
