@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 <div style="display: flex; align-items: center;">
-      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
+      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="200px" max-width="200px" width="135" alt="Erick" align="right">
 
 </div>
 
