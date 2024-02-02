@@ -46,7 +46,7 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://gauge.digital/images/particulas.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Erick">
+<img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Erick">
 
 #### Secondary Stack:
 
