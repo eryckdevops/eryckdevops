@@ -46,8 +46,13 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Erick">
-<img src="https://2.bp.blogspot.com/-y__ixChN1A0/U1IABVzkNqI/AAAAAAAAAeo/5pIap-F4gvg/s1600/pelitierra-1.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Erick">
+<p align="right">
+  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="300" alt="Erick">
+</p>
+
+<p align="right">
+  <img src="https://2.bp.blogspot.com/-y__ixChN1A0/U1IABVzkNqI/AAAAAAAAAeo/5pIap-F4gvg/s1600/pelitierra-1.gif" width="150" alt="Erick">
+</p>
 
 #### Secondary Stack:
 
