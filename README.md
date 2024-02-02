@@ -46,7 +46,7 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <p align="left">
-  <img src="https://claracloud.com.br/wp-content/uploads/2021/02/tech.gif" width="400px" alt="Erick">
+  <img src="https://claracloud.com.br/wp-content/uploads/2021/02/tech.gif" width="300px" alt="Erick">
 </p>
 
 <p align="rigth">
