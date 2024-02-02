@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png" width="30%">
-  <img src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" width="30%" style="margin-bottom: 100px">
+  <img src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" width="50%" style="margin-bottom: 100px">
   <img src="https://img1.picmix.com/output/stamp/normal/0/3/0/8/588030_87d9a.gif" width="20%" align="right">
 </p>
 
