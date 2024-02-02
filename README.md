@@ -17,7 +17,6 @@
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
   <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
-  <img width="48%" src="https://github-readme-stats-git-master-rodrigues-projects-b7116b34.vercel.app?username=eryckdevops&show_icons=true&theme=radical&layout=compact" />
 </p>
 
 <br>
