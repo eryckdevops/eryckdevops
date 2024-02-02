@@ -48,8 +48,8 @@
 
 <p align="left">
   <img src="https://claracloud.com.br/wp-content/uploads/2021/02/tech.gif" width="300px" alt="Erick">
-  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="150" alt="Erick" ">
-  <img src="https://2.bp.blogspot.com/-y__ixChN1A0/U1IABVzkNqI/AAAAAAAAAeo/5pIap-F4gvg/s1600/pelitierra-1.gif" width="75" ">
+  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="300" alt="Erick" ">
+  <img src="https://2.bp.blogspot.com/-y__ixChN1A0/U1IABVzkNqI/AAAAAAAAAeo/5pIap-F4gvg/s1600/pelitierra-1.gif" width="205" ">
 </p>
 
 
