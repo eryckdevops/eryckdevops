@@ -20,12 +20,10 @@
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 
 <div align="center">
-  <img height="390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryckdevops&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-  <div>
-    <img height="197px" src="https://github-readme-stats.vercel.app/api?username=eryckdevops&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-    <img height="197px" src="https://github-readme-stats.vercel.app/api/wakatime?username=eryckdevops&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
-  </div>
-  <img height="390px" src="https://github-readme-activity-graph.vercel.app/graph?username=eryckdevops&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+  <a href="https://github.com/Guilherme-Espinosa">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Espinosa&theme=transparent&hide_border=false" height="150em"/>
 </div>
 
  &nbsp;
