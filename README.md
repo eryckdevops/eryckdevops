@@ -18,11 +18,13 @@
 ### :trophy: &nbsp;Meu status
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
-<div align="center">
-  <div align="center" style="margin-bottom:100px">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
-    <img width="58%" height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryckdevops&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-  </div>
+
+<img height="390px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfelipe9627&langs_count=8&theme=react&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<div align="left">
+  <img height="197px" src="https://github-readme-stats.vercel.app/api?username=eryckdevops&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="186px" src="https://github-readme-stats.vercel.app/api/wakatime?username=eryckdevops&theme=react&hide_border=true&custom_title=Tempo%20Codando&langs_count=5&range=all_time&cache_seconds=14400" />
+</div>
+
 
   <div align="center">
     <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eryckdevops&theme=react&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
