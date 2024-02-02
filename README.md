@@ -92,8 +92,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ### :curly_haired_man: &nbsp;Dev Pleno Café
 
-[![Spotify](https://novatorem-m1qyft6li-rodrigues-projects-b7116b34.vercel.app/api/spotify)](https://open.spotify.com/user/eryckdevops)
-
+[![Spotify](https://novatorem-9ejr.vercel.app/api/spotify)](https://open.spotify.com/user/RodriguesDevops)
 ## Contacts:
 
 <div> 
