@@ -20,12 +20,11 @@
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
 
 <div align="center">
-  <a href="https://github.com/Guilherme-Espinosa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Espinosa&theme=transparent&hide_border=false" height="150em"/>
+  <a href="https://github.com/eryckdevops">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eryckdevops&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckdevops&layout=compact&langs_count=6&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eryckdevops&theme=transparent&hide_border=false" height="150em"/>
 </div>
-
  &nbsp;
 
 ## My Skills
