@@ -47,6 +47,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Erick">
+<img src="https://i.pinimg.com/originals/d3/75/ee/d375ee9f3836bc2ee44d2c62f7c93e38.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Erick">
 
 #### Secondary Stack:
 
