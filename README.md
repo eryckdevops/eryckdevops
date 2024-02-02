@@ -46,9 +46,14 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="300" alt="Erick" >
-  <img src="https://2.bp.blogspot.com/-y__ixChN1A0/U1IABVzkNqI/AAAAAAAAAeo/5pIap-F4gvg/s1600/pelitierra-1.gif" width="205" >
+
 #### Secondary Stack:
+
+<p align="center">
+  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="150" alt="Erick" style="margin-top: -20px;">
+  <img src="https://2.bp.blogspot.com/-y__ixChN1A0/U1IABVzkNqI/AAAAAAAAAeo/5pIap-F4gvg/s1600/pelitierra-1.gif" width="75" alt="Erick" style="margin-top: -20px;">
+</p>
+
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
