@@ -1,7 +1,10 @@
 ![about](https://user-images.githubusercontent.com/48495838/215356536-f7098a33-9508-4ed1-a30b-defe603af63e.png)
 <img align="center" style="margin-bottom:100px" width=50% src="https://github.com/eryckdevops/eryckdevops/blob/main/dev.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
+<div style="display: flex; align-items: center;">
+      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
 
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erick+Rodrigues;I'm+23+years+old;I'm+from+Brazil;I+Student+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">
@@ -14,10 +17,7 @@
 </p>
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
-<div style="display: flex; align-items: center;">
-      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
 
-</div>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-master-rodrigues-projects-b7116b34.vercel.app
