@@ -15,29 +15,10 @@
 </p>
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
-
-<p align="center">
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
-</p>
-
-<p align="center">
-  <img width="40%" align="center" src="https://github-readme-stats-git-master-rodrigues-projects-b7116b34.vercel.app
-?username=eryckdevops&show_icons=true&theme=radical&layout=compact" />
-</p>
-
-<br>
-
-## Commit e Linguagens
-
-<!-- Adicione mais informações sobre commits e linguagens aqui -->
-
-<!-- Exemplo: -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckdevops&layout=compact&theme=radical)](https://github.com/eryckdevops/github-readme-stats)
-
-[![Estatísticas de Contribuição](https://github-contribution-stats.vercel.app/api/?username=eryckdevops&theme=radical)](https://github.com/eryckdevops/github-contribution-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eryckdevops&theme=github)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-username)](https://wakatime.com/@seu-username)
 
  
- &nbsp;
  &nbsp;
 
 
