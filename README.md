@@ -50,7 +50,7 @@
 #### Secondary Stack:
 
 <p align="center">
-  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif"min-width="400px" max-width="400px" width="150px" align="right">
+  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif"min-width="400px" max-width="400px" width="400px" align="right">
 </p>
 
 
