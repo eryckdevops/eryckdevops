@@ -52,8 +52,8 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-      <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
-    <img src="[https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif](https://usagif.com/wp-content/uploads/gifs/globe-9.gif)" min-width="400px" max-width="400px" width="400px" align="right">
+      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
+    <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 </div>
 
