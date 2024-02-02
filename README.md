@@ -15,8 +15,18 @@
 </p>
 
 ![tech](https://user-images.githubusercontent.com/48495838/185457315-d67c2662-55f3-43d8-b196-db36d00f8f11.png)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eryckdevops&theme=github)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-username)](https://wakatime.com/@seu-username)
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=eryckdevops&theme=radical&mode=weekly" />
+  <img width="49%" src="https://github-readme-stats-git-master-rodrigues-projects-b7116b34.vercel.app?username=eryckdevops&show_icons=true&theme=radical&layout=compact" />
+</p>
+
+<br>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryckdevops&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-contribution-stats.vercel.app/api/?username=eryckdevops&theme=radical" />
+</p>
+
 
  
  &nbsp;
