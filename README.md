@@ -90,9 +90,15 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-### :curly_haired_man: &nbsp;Dev Pleno Café
 
-[![Spotify](https://novatorem-9ejr.vercel.app/api/spotify)](https://open.spotify.com/user/RodriguesDevops)
+### :coffee: &nbsp; Moment Coffee
+
+<p align="right">
+  <a href="https://open.spotify.com/user/RodriguesDevops">
+    <img src="https://novatorem-9ejr.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</p>
+
 ## Contacts:
 
 <div> 
