@@ -53,7 +53,7 @@
 
 <div style="display: flex; align-items: center;">
       <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
-    <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="400px" align="right">
+    <img src="https://github.com/eryckdevops/eryckdevops/blob/main/Erick.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div style="display: flex; align-items: center; margin-bottom: -2000px;">
   <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="30px" width="45" alt="Erick" align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" min-width="400px" max-width="400px" width="190px" align="right">
+  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="190px" align="right">
   <div>
   </div>
 </div>
