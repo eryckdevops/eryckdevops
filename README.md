@@ -52,7 +52,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-      <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
+      <img src="https://github.com/eryckdevops/eryckdevops/blob/main/Cafe.gif?raw=true" min-width="300px" max-width="300px" width="135" alt="Erick" align="right">
     <img src="https://github.com/eryckdevops/eryckdevops/blob/main/Erick.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 </div>
@@ -93,26 +93,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
 <br>
-
-### :coffee: &nbsp; Moment Coffee
-
-<div style="display: flex; align-items: center; margin-bottom: -2000px;">
-  <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="30px" width="45" alt="Erick" align="right">
-  <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" min-width="400px" max-width="400px" width="190px" align="right">
-  <div>
-  </div>
-</div>
-<br>
-<br>
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-
 
 
 
