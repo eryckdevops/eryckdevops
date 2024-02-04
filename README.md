@@ -76,6 +76,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
@@ -91,13 +92,29 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
+<br>
+
 ### :coffee: &nbsp; Moment Coffee
 
-<p align="right">
-  <a href="https://open.spotify.com/user/RodriguesDevops">
-    <img src="https://novatorem-9ejr.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</p>
+<div style="display: flex; align-items: center; margin-bottom: -2000px;">
+  <img src="https://usagif.com/wp-content/uploads/gifs/globe-9.gif" min-width="300px" max-width="30px" width="45" alt="Erick" align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" min-width="400px" max-width="400px" width="190px" align="right">
+  <div>
+  </div>
+</div>
+<br>
+<br>
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 
 ## Contacts:
 
